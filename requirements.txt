@@ -3,3 +3,8 @@ numpy
 scikit-learn
 pandas
 streamlit
+urlextract
+wordcloud
+matplotlib
+collections
+emoji
