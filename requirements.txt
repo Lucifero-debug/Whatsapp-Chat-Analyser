@@ -6,5 +6,3 @@ streamlit
 urlextract
 wordcloud
 matplotlib
-collections
-emoji
